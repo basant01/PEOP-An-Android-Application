@@ -18,9 +18,12 @@ This project is created for guidance and evaluation of projects created by stude
 **Industry** to allow them to view the best research related projects that have been developed by University Students in different fields.
 
 ***Splash Page of App***
+
+
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture.PNG)
 
 ***Signup Page for New User***
+
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture3.PNG)
 
 
