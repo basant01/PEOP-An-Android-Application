@@ -6,7 +6,9 @@ This project is created for guidance and evaluation of projects created by stude
 
 **Students**
 **1.** This app will contain a short description explaining the functionality of that particular project in their respective language. 
+
 **2.** App contains the profile of all the SOCS faculties briefing about the projects mentored by them and their respective specialization.
+
 **3.** Every student can register and use this application for a reference in choosing the project's topic. Also, if any student likes to  add any furthermore functionality in the pre-existing project, they can contact that respective mentor for the same.
 
 
