@@ -1,3 +1,3 @@
 # PEOP-An-Android-Application
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture.PNG)
