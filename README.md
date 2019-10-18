@@ -20,25 +20,27 @@ This project is created for guidance and evaluation of projects created by stude
 ***Splash Page of App***
 
 
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture.PNG)
+![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture.PNG)
 
 ***Signup Page for New User***
 
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture3.PNG)
+![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture1.PNG)
 
 
 ***Signup Page for New User***
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture4.PNG)
+![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture3.PNG)
 
 
 ***Signup Page for New User***
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture5.PNG)
+![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture4.PNG)
 
 
 ***Signup Page for New User***
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture7.PNG)
+![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture5.PNG)
 
 
 ***Signup Page for New User***
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture8.PNG)
+![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture7.PNG)
 
+***Signup Page for New User***
+![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture8.PNG)
