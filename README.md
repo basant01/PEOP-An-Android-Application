@@ -20,27 +20,30 @@ This project is created for guidance and evaluation of projects created by stude
 ***Splash Page of App***
 
 
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture.PNG)
+![Image Splash Page](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture.PNG)
 
-***Signup Page for New User***
+***Signup Page for New User (Upes Students or Upes Faculties)  and if already account exist than Login directly***
 
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture1.PNG)
-
-
-***Signup Page for New User***
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture3.PNG)
+![Image of Signup Page](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture1.PNG)
 
 
-***Signup Page for New User***
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture4.PNG)
+***Login Page - login by Upes Students or Upes Faculties (upes email id can be used for login) ***
+
+![Image of Login Page](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture3.PNG)
 
 
-***Signup Page for New User***
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture5.PNG)
+***Home Page - Student can select faculty option for viewing faculty information categorized according to different specilizations ***
 
 
-***Signup Page for New User***
+![Image of Home Page](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture4.PNG)
+
+
+***Page for changing setttings , user profile iamge , to know about developers of app etc***
+![Image of Navigation Menu](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture5.PNG)
+
+
+***All the infromation realted to Projects details and Faculties details according to specilization selected by user***
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture7.PNG)
 
-***Signup Page for New User***
-![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture8.PNG)
+***Home Page when Login By Faculty to See Current Status of projects by clicking on different Github projects links ***
+![Image of Home Page](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture8.PNG)
