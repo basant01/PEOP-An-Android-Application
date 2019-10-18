@@ -27,12 +27,12 @@ This project is created for guidance and evaluation of projects created by stude
 ![Image of Signup Page](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture1.PNG)
 
 
-***Login Page - login by Upes Students or Upes Faculties (upes email id can be used for login) ***
+***Login Page - login by Upes Students or Upes Faculties (upes email id can be used for login)***
 
 ![Image of Login Page](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture3.PNG)
 
 
-***Home Page - Student can select faculty option for viewing faculty information categorized according to different specilizations ***
+***Home Page - Student can select faculty option for viewing faculty information or project option for viewing the projects made in last year in Upes categorized according to different specilizations***
 
 
 ![Image of Home Page](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture4.PNG)
@@ -42,8 +42,11 @@ This project is created for guidance and evaluation of projects created by stude
 ![Image of Navigation Menu](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture5.PNG)
 
 
+***Students can select project or faculties accoridng to the mentioned specilization***
+![Image of Navigation Menu](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture90.PNG)
+
 ***All the infromation realted to Projects details and Faculties details according to specilization selected by user***
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture7.PNG)
 
-***Home Page when Login By Faculty to See Current Status of projects by clicking on different Github projects links ***
+***Home Page when Login By Faculty to See Current Status of projects by clicking on different Github projects links***
 ![Image of Home Page](https://github.com/basant01/PEOP-An-Android-Application/blob/master/PEOPFinal-master/Sample%20Images%20of%20App/Capture8.PNG)
