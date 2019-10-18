@@ -4,7 +4,8 @@ This project is created for guidance and evaluation of projects created by stude
 
 **Faculty** to check current status and evaluation of projects under their guidance.
 
-**Students**
+**Students** :-
+
 **1.** This app will contain a short description explaining the functionality of that particular project in their respective language. 
 
 **2.** App contains the profile of all the SOCS faculties briefing about the projects mentored by them and their respective specialization.
@@ -16,10 +17,25 @@ This project is created for guidance and evaluation of projects created by stude
 
 **Industry** to allow them to view the best research related projects that have been developed by University Students in different fields.
 
+***Splash Page of App***
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture.PNG)
+
+***Signup Page for New User***
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture3.PNG)
+
+
+***Signup Page for New User***
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture4.PNG)
+
+
+***Signup Page for New User***
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture5.PNG)
+
+
+***Signup Page for New User***
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture7.PNG)
+
+
+***Signup Page for New User***
 ![Image of Yaktocat](https://github.com/basant01/PEOP-An-Android-Application/blob/master/Capture8.PNG)
 
